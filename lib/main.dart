@@ -1,6 +1,5 @@
 import 'package:audioplayers/audio_cache.dart';
 import 'package:flutter/material.dart';
-
 void main() => runApp(
   XylophoneApp());
 
@@ -20,7 +19,6 @@ Expanded buildXylophone({Color color,int soundNumber}){
     },),
   );
 }
-
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
