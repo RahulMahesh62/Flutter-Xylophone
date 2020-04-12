@@ -3,4 +3,4 @@ Its basically a music app that plays Xylophone sounds. For every Beethoven out t
 
 Xylophone emulator made using Flutter
 
-![Xylophone](https://github.com/RahulMahesh62/Flutter-Xylophone/blob/master/assets/Screenshot_2020-04-06-13-35-11-940_co.appbrewery.xylophone.jpg)
+![Xylophone](https://github.com/RahulMahesh62/Flutter-Xylophone/blob/master/assets/mockup.png =200*200)
